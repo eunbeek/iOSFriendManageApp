@@ -8,5 +8,5 @@ This repository has the iOS application source files that is able to manage the 
 - Alert validating about the fields 
 
 ## Simulator URL 
-https://appetize.io/app/9j02z2mb7k57xykj2peee65pbg 
+https://appetize.io/app/9j02z2mb7k57xykj2peee65pbg?device=iphone11pro&scale=75&orientation=portrait&osVersion=14.0
 
